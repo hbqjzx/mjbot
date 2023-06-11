@@ -1,0 +1,4 @@
+wechaty~=0.10
+requests~=2.28
+aiohttp~=3.8
+Pillow==9.3.0

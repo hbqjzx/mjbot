@@ -22,6 +22,7 @@ pip install -r requirements.txt
 ```
 os.environ['WECHATY_PUPPET_SERVICE_TOKEN'] = 'xxxxx'
 ```
+## 执行
 ```
 $env:WECHATY_PUPPET_SERVICE_TOKEN = "xxxxx"
 ```

@@ -17,9 +17,11 @@ pip install -r requirements.txt
 - zhishuyun_chatgpt_35_token = "知数云注册后申请 GPT API 接口的 token"
 - zhishuyun_midjourney_token = "知数云注册后申请 MJ API 接口的 token"
 
-执行代码前先设置环境变量
-或者将下一句加在28行前
+- 执行代码前先设置环境变量
+- 或者将下一句加在28行前
+```
 os.environ['WECHATY_PUPPET_SERVICE_TOKEN'] = 'xxxxx'
+```
 ```
 $env:WECHATY_PUPPET_SERVICE_TOKEN = "xxxxx"
 ```

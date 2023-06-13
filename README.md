@@ -40,7 +40,7 @@ python main.py
 
 ## 预览
 ![](https://i.postimg.cc/1zB6PDHw/2.jpg)
-![](https://i.postimg.cc/MGqRh9yz/1.jpg)
+
 
 
 ## 赞助我们
